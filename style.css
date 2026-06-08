@@ -384,7 +384,7 @@ font-family: "Martel Sans", sans-serif;
     }
     .card{
         width: 100%;
-        min-height: 220px;
+        min-height: 250px;
     }
 }
 @media(max-width:480px){
